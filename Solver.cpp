@@ -12,7 +12,7 @@ using namespace std;
 //////////////////////////////////////////////////////////////////////////
 ////This project implements the conjugate gradient solver to solve sparse linear systems
 ////For the mathematics, please read https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
-////The algorithm we are implementing is in Page 50, Algorithm B.2, the standard conjugate gradient (without a preconditioner)
+////The algorithm we are implementing is the standard conjugate gradient (without a preconditioner)
 //////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////
